@@ -1,5 +1,10 @@
 # Stocks app
 
+## Deployed application - Live demo
+
+React web app is `deployed on github pages`. See a `live demo` in below link.
+* React web app - https://kdnc.github.io/search
+
 ## Notable items in the application
 
 * ### `Redux` is used to manage the state in the application.
