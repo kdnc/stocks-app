@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "http://kdnc.github.io/stocks-app/precache-manifest.e0448751e1fb6bd7350ee3ee791cced2.js"
+  "https://kdnc.github.io/stocks-app/precache-manifest.e58989acc7342d8f149f5169297d0e8e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("http://kdnc.github.io/stocks-app/index.html", {
+workbox.routing.registerNavigationRoute("https://kdnc.github.io/stocks-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
