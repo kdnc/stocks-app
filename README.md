@@ -3,7 +3,7 @@
 ## Deployed application - Live demo
 
 React web app is `deployed on github pages`. See a `live demo` in below link.
-* React web app - https://kdnc.github.io/search
+* React web app - https://kdnc.github.io/stocks-app
 
 ## Notable items in the application
 
