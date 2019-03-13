@@ -29,3 +29,21 @@
 * Build React app for production  to the `build` folder using below command. It correctly bundles React in production mode and optimizes the build for the best performance. 
         
         npm run build
+        
+## Sample images of the app
+
+Desktop screen search page
+
+![](https://i.ibb.co/sqGxPc6/Desktop-screen-search-page.png)
+
+Mobile screen search page
+
+![](https://i.ibb.co/d7jLCmH/Mobile-screen-search-page.png)
+
+Stock price data page
+
+![](https://i.ibb.co/rcpGq8b/Stock-metadata-fetching-in-the-background-screen.png)
+
+Sort control displayed to sort the offers
+
+![](https://i.ibb.co/YtgTkt1/Stock-price-data-page.png)
