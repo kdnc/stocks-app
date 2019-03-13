@@ -2,7 +2,7 @@
   "name": "react-reduction",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://reduction-admin.github.io/react-reduction",
+  "homepage": "http://kdnc.github.io/stocks-app",
   "dependencies": {
     "bootstrap": "4.3.1",
     "chart.js": "2.7.2",
@@ -35,7 +35,7 @@
     "victory": "^32.0.0"
   },
   "devDependencies": {
-    "gh-pages": "^1.2.0",
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0",
     "react-scripts": "2.1.8",
     "serve": "^10.1.2",
@@ -51,7 +51,9 @@
     "serve": "serve -s build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
